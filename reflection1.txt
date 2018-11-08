@@ -1,13 +1,13 @@
-Name:
-Period:
-Date:
+Name:Arnav Mangal
+Period:3
+Date:11/7/18
 
 
-Goal 1:
-Self-assesment rating:
-Why did you give yourself that self-assesment rating:
+Goal 1: Be able to clear up foggy Java concepts effectively through .
+Self-assesment rating: 3
+Why did you give yourself that self-assesment rating: I try using various online resources and videos to learn new concepts, but should use practice-it more often.
 
 
-Goal 2:
-Self-assessment rating:
-Why did you give yourself that self-assesment rating:
+Goal 2:Learn to enjoy coding through participating in class.
+Self-assessment rating: 2
+Why did you give yourself that self-assesment rating: I feel that while I have been participating once in a while during discussions, I haven't been asking questions all the time when they come up inside my head.
