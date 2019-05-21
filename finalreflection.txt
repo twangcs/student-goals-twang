@@ -1,18 +1,18 @@
-Name:
-Period:
-Date:
- 
-  
-Goal 1:
-Final self-assessment rating:
-Why did you give yourself that self-assessment rating:
- 
-  
-Goal 2:
-Final self-assessment rating:
-Why did you give yourself that self-assessment rating:
+Name:Arnav Mangal
+Period: 3
+Date:  5/21/2019
 
-End of year questions:
-What did you think of the goal setting process:
-How did goal setting help you in class:
-Do you plan on using goal setting in the future and how:
+
+Goal 1: Be able to clear up foggy Java concepts effectively through extra practice.
+Final self-assessment rating: 4
+Why did you give yourself that self-assessment rating: I think that I did lots of practice online especially close to AP test.
+
+
+Goal 2: Learn to enjoy coding through participating in class.
+Final self-assessment rating: 4
+Why did you give yourself that self-assessment rating: I participated a lot more in the class this year; for example, in presentations I would volunteer to go up.
+
+End of year questions: I have questions on how some of the concepts we have learned in java contribute to electronic  products that we use daily.
+What did you think of the goal setting process: I think that the goal setting process helps people stay on track as long as the goal is reasonable.
+How did goal setting help you in class: I was able to focus on my goal and contribute time towards a higer self-assessment rating. 
+Do you plan on using goal setting in the future and how: I plan on creating more specific goals in future projects.
